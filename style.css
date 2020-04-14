@@ -48,6 +48,7 @@ body{
     font-size: larger;
     letter-spacing: 5px;
     cursor: pointer;
+    text-transform: uppercase;
    }
    .wrapper #error_message{
        margin: 20px;
