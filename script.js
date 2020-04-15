@@ -34,7 +34,7 @@ if (message.length <= 20){
     error_message.innerHTML = text;
     return false;
 }
-alert("Your message was sent!")
+alert("Thank you for your message.It has been sent!")
 return true;
 
 }
